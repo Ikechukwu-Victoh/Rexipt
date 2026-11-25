@@ -81,7 +81,7 @@ class _AdditemsformsState extends State<Additemsforms> {
 
     Navigator.push(
       context,
-      MaterialPageRoute(builder: (context) => const PreviewReceiptScreen()),
+      MaterialPageRoute(builder: (context) => const ReceiptPreviewScreen()),
     );
   }
 
